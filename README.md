@@ -1,8 +1,3 @@
-#EXTINF:-1 tvg-logo="" group-title="RANDOM",11668.mp4
-http://5.9.79.105/vod/peliculas/adultos/11668.mp4
-#EXTINF:-1 tvg-logo="" group-title="RANDOM",11669.mp4
-http://5.9.79.105/vod/peliculas/adultos/11669.mp4
-
 #EXTINF:-1 tvg-id="AlcarriaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg" group-title="Mexico",Alcarria TV (576p)
 http://tvpremiumhd.club/lista-gratuita/185322/on/live.php?id=217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Mexico",AMX Noticias (720p)
